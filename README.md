@@ -104,7 +104,7 @@ Her kontrol kartı dört bileşenden oluşur:
 
 ---
 
-## 👤 Yazar
+## 👨‍💻 Hazırlayan
 
 **Ömer Tayfun DEVEÇEKER**<br>
 Bilgi Güvenliği Uzmanı
